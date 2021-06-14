@@ -1,0 +1,15 @@
+{
+  "name": "intro-signup-component",
+  "version": "1.0.0",
+  "description": "Simple intro signup component for frontendmentor.io challenge",
+  "main": "index.js",
+  "scripts": {
+    "sass:watch": "sass --watch styles/scss:styles/css"
+  },
+  "keywords": [],
+  "author": "SuzuMantan",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.34.1"
+  }
+}
