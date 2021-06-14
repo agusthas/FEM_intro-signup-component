@@ -46,6 +46,14 @@ p {
   margin: 0;
 }
 
+.sr-only {
+  position: absolute;
+  opacity: 0;
+  height: 0;
+  width: 0;
+  top: 0;
+}
+
 .spacer > * + * {
   margin-top: 1.5rem;
 }
